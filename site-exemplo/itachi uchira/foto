@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itachi Uchiha</title>
+
+    <style>
+        body{
+            margin:0;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+            background:#000;
+            overflow:hidden;
+        }
+
+        img{
+            width:400px;
+            max-width:90%;
+            border-radius:12px;
+            box-shadow:0 0 30px red;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Troque "itachi.gif" pelo caminho do seu GIF -->
+    <img src="itachi.gif" alt="Itachi Uchiha">
+
+</body>
+</html>
